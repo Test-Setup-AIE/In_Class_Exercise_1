@@ -1,1 +1,1 @@
-Answer the questions in the main.c file
+Answer the questions in the main.cpp file
